@@ -1,2 +1,2 @@
-# litgrip.github.io
+# litgrip
 LitGrip Product Landing and Purchasing Page
